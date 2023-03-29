@@ -1,0 +1,1 @@
+https://dev.to/bondr007/active-directory-ldaps-the-easy-way-1bnc
